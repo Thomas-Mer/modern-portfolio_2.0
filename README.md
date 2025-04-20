@@ -132,4 +132,4 @@ This project is open source and available under the [MIT License](LICENSE).
 For any queries or suggestions, feel free to reach out:
 - Email: Thomas(mailto:thomasmermigis@gmail.com)
 - LinkedIn: ThomasM(https://www.linkedin.com/in/thomas-m-/)
-- GitHub: [Your GitHub](https://github.com/yourusername)
+- GitHub: Thomas-Mer(https://github.com/Thomas-Mer)
