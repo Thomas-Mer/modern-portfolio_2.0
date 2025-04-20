@@ -63,7 +63,7 @@ portfolio/
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone <https://thomas-mer.github.io/modern-portfolio_2.0/>
    ```
 
 2. Open `index.html` in your browser to view the portfolio.
@@ -130,6 +130,6 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📧 Contact
 
 For any queries or suggestions, feel free to reach out:
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- Email: Thomas(mailto:thomasmermigis@gmail.com)
+- LinkedIn: ThomasM(https://www.linkedin.com/in/thomas-m-/)
 - GitHub: [Your GitHub](https://github.com/yourusername)
